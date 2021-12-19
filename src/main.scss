@@ -1,0 +1,11 @@
+$primary: teal;
+$danger: purple;
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: purple;
+}
+.testClass {
+    background-image:none;
+    background-repeat: inherit;
+}
