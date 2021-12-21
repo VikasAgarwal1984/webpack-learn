@@ -1,1 +1,1 @@
-console.log('I am in vendor');
+import "bootstrap";
